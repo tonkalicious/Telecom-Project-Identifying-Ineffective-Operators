@@ -8,3 +8,5 @@ The virtual telephony service is developing a new function that will give superv
 The libraries that I used: pandas, sweetviz, datetime, numpy, seaborn, matplotlib, sklearn, scipy.
 
 The datasets are from the Practicum100 and are not allowed to share.
+
+You can check Tableau presentation on this link: https://public.tableau.com/app/profile/antonija.mohar/viz/TelecomServiceDashboard/TelecomServiceDashboard
